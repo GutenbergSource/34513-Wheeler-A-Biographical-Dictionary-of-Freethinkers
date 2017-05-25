@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>A Biographical Dictionary of Freethinkers of All Ages and Nations</dc:title>
+      <dc:creator>Joseph Mazzini Wheeler (1850—1898)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2010-11-30</dc:publisher>
+      <dc:date>2010-11-30</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+
+ This eBook is produced by Adam Buchbinder, Jeroen Hellingman, and the the Online Distributed Proofreading Team at www.pgdp.net.
+
+ Scans of this work are available on Google Print (TIA Copy), and the Internet Archive.
+
+ 
+
+ </dc:rights>
+      <dc:subject>Biography and Autobiography -- Philosophers</dc:subject>
+      <dc:subject>History -- General</dc:subject>
+      <dc:subject>Philosophers</dc:subject>
+      <dc:subject>Rationalists</dc:subject>
+      <dc:description>This biographical dictionary prepared in 1889 presents a list of more or less well-known freethinkers, atheists, or rationalists with a short biography and references to their works.</dc:description>
+      <dc:identifier>pg:34513</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
